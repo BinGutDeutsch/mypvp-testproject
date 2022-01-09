@@ -1,0 +1,8 @@
+dbHost: localhost
+dbPort: 3306 
+dbName: infinitesg
+dbUser: root
+dbPassword: 
+min_items: 7
+max_items: 12
+refill_time: 1

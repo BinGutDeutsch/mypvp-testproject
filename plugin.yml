@@ -1,0 +1,6 @@
+name: mypvp-testproject
+version: 1.0.0
+main: de.bingutdeutsch.testproject.main.Main
+author: BinGutDeutsch
+description: MyPvP Testproject
+
